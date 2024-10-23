@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "netflix-index"
+  },
+  "targets": {
+    "netflix-index": {
+      "hosting": {
+        "Netflix": [
+          "netflix-index"
+        ]
+      }
+    }
+  }
+}
